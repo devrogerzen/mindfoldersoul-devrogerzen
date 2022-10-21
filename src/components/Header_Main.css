@@ -1,0 +1,27 @@
+.header_main {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_main__logo {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_main__ul {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.header_main__right-panel {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
