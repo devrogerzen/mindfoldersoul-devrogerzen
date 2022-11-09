@@ -10,8 +10,6 @@ function App() {
   return (
     <>
       <Header_Main />
-      <Banner_Main />
-      <Login />
     </>
   );
 }
