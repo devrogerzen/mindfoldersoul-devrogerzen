@@ -5,7 +5,7 @@ import "./Header_Main.css";
 const Header_Main = () => {
   return (
     <header className="header_main">
-      <div className="header_main__logo">Logo</div>
+      <div className="header_main__logo">Logo - DevRogerZen</div>
       <ul className="header_main__ul">
         <li>Discover</li>
         <li>Services</li>
